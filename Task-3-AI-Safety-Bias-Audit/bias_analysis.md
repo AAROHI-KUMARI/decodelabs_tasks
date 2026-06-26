@@ -52,3 +52,6 @@ A comprehensive bias audit should include:
 ## Conclusion
 
 No definitive conclusion regarding systematic bias can be drawn from this limited evaluation. The results suggest that further large-scale testing would be required before identifying measurable demographic bias within the model.
+
+
+Last updated: June 2026

@@ -65,3 +65,6 @@ To improve the reliability, security, and responsible deployment of AI systems b
 ## Conclusion
 
 A combination of strong prompt protection, responsible content moderation, privacy safeguards, and continuous testing can significantly improve the safety and trustworthiness of AI systems before public deployment.
+
+
+Last updated: June 2026
