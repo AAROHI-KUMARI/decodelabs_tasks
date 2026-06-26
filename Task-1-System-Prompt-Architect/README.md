@@ -1,38 +1,80 @@
-# Task 1: The System Prompt Architect
+# 🧠 Task 1: The System Prompt Architect
 
-## 📌 Objective
-Design a professional AI System Prompt for a Luxury Travel Consultant capable of handling customer interactions while maintaining a consistent persona, following business rules, and using few-shot prompting techniques.
+## 📖 Project Overview
 
-## 🛠️ Tools Used
-- ChatGPT
-- Prompt Engineering
-- Markdown
-- Git & GitHub
+This project was completed as part of the **DecodeLabs Generative AI Internship**.
 
-## 🎯 Features
-- Luxury Travel Consultant persona
-- Strict business rules and constraints
-- Knowledge boundaries
-- Discount policy
-- Few-shot prompting examples
-- Prompt injection resistance
-- Difficult customer interaction testing
-
-## 📂 Project Files
-
-- `system_prompt.md` – Complete system prompt.
-- `few_shot_examples.md` – Example conversations demonstrating the AI's behavior.
-- `test_results.md` – Tests performed to verify the prompt's performance.
-
-## 🚀 Skills Demonstrated
-
-- Prompt Engineering
-- Persona Design
-- System Prompt Design
-- AI Safety
-- Few-Shot Prompting
-- Conversation Design
+The objective was to design a professional system prompt for a luxury travel agency AI capable of maintaining a consistent persona, following business rules, handling difficult customer interactions, and resisting prompt injection attacks.
 
 ---
 
-Created as part of the **DecodeLabs Industrial Training Mission Kit – Generative AI Internship**.
+## 🎯 Objectives
+
+- Design a professional AI system prompt
+- Create a consistent AI persona
+- Define business rules and constraints
+- Apply few-shot prompting
+- Test the AI using realistic customer scenarios
+
+---
+
+## 🛠️ Tools Used
+
+- ChatGPT (Prompt Design)
+- Google Gemini (Prompt Testing)
+- Git & GitHub
+- Markdown
+
+---
+
+## 📂 Project Structure
+
+```
+Task-1-System-Prompt-Architect/
+│
+├── README.md
+├── system_prompt.md
+├── few_shot_examples.md
+├── test_results.md
+└── screenshots/
+```
+
+---
+
+## ✅ Features
+
+- Luxury Travel Consultant Persona
+- Business Rules & Constraints
+- Discount Policy
+- Knowledge Boundaries
+- Prompt Injection Protection
+- Few-Shot Prompting
+- AI Response Testing
+
+---
+
+## 🧪 Test Cases
+
+| Test Case | Status |
+|-----------|--------|
+| Honeymoon Recommendation | ✅ Passed |
+| Competitor Handling | ✅ Passed |
+| Discount Policy | ✅ Passed |
+| Prompt Injection Resistance | ✅ Passed |
+| Knowledge Boundary | ✅ Passed |
+| Unrealistic Budget Handling | ✅ Passed |
+
+---
+
+## 💡 Skills Demonstrated
+
+- Prompt Engineering
+- AI Persona Design
+- Conversation Design
+- AI Safety
+- Business Rule Implementation
+- Testing & Validation
+
+---
+
+Created as part of the **DecodeLabs Generative AI Internship**.
